@@ -1,7 +1,8 @@
 {
-    "description": "",
+    "description": "A tiny Neos/Flow package that provides an Eel helper to generate cache-busting URIs for static resources.",
     "type": "neos-package",
     "name": "lb/neos-hashed-asset-uri",
+    "license": "MIT",
     "require": {
         "neos/neos": "^8.0 || ^9.0"
     },

@@ -1,0 +1,4 @@
+Neos:
+  Fusion:
+    defaultContext:
+      'HashedStaticResource': 'LB\HashedAssetUri\Eel\HashedStaticResource'

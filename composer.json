@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "type": "neos-package",
+    "name": "lb/neos-hashed-asset-uri",
+    "require": {
+        "neos/flow": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LB\\HashedAssetUri\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "LB.HashedAssetUri"
+        }
+    }
+}
